@@ -6,9 +6,9 @@ color:
   saturation: 0.5007843261118978
   rhythmicContrast: 0.1270469594746828
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#FFFFFF'
+    - '#393013'
+    - '#F4A8D6'
+    - '#8C5072'
+    - '#FF16A3'
 name: the Brand Station
