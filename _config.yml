@@ -16,5 +16,8 @@ navigation:
   - name: Our story
     id: 1b6f2b12-65a4-4961-9ff5-93276076a082
     type: content
+  - name: Emotive Transformation
+    id: 1129f713-ab46-4324-8d96-f81a7af1bcab
+    type: content
 title: we craft brands that matter
 description: think emotive
