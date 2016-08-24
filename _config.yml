@@ -1,4 +1,5 @@
-typography_spectrum: 0.5088945417664945
+layout_spectrum: 0.910559881478548
+typography_spectrum: 0.3328948749694973
 color:
   brandStrength: 0.2545385379344225
   lightness: 0.34945625555701554
@@ -10,7 +11,6 @@ color:
     - '#F4A8D6'
     - '#8C5072'
     - '#FF16A3'
-layout_spectrum: 0.49814465641975403
 name: the Brand Station
 title: we craft brands that matter
 description: think emotive
